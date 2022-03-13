@@ -1,0 +1,1 @@
+I am completing the Git assignment on Odin! This is my first txt file. 
